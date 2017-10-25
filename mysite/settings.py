@@ -20,7 +20,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'ynhh5nfqp3u=7i^s%$3ukjs0de!a^(miu-dfuoidhxn#%9t#gs'
+SECRET_KEY = 'zo4-@ye-ixo0ga(h=jgkr(c93)tm2k2gel0lif&g8r^kyd0^y#'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
